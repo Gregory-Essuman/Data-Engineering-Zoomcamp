@@ -23,6 +23,7 @@ This project makes use of a one time batch process however it can be applied in 
 ## Data Ingestion and Orchestration (Apache Airflow)
 
 The data was ingested to the data lake (GCS) and data warehouse (Big query) with orchestration from airflow.
+Total size of data ingested is almost 20GB. 
 
 ## Data Warehouse (Big Query)
 
