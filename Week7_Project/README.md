@@ -42,11 +42,11 @@ The dataset ingested in the data warehouse was partitioned and clustered to enha
 4. To run airflow, navigate to airflow directory and run commands to initialize the containers in docker.
 
 5. Go to localhost 8080 and login with airflow login details
-    user - airflow
-    password - airflow
+    > user - airflow
+    > password - airflow
 
-6. Trigger the dags to run the pipeline
-    first trigger - data_ingestion_gcs_dag.py
-    second trigger - external_table_dag_.py
+6. Trigger the dags to run the pipeline.
+    > first trigger - data_ingestion_gcs_dag.py
+    > second trigger - external_table_dag_.py
 
 7. Login to google cloud platform and check the ingested data in GCS and Bigquery.
