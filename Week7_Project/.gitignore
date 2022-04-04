@@ -1,0 +1,17 @@
+*.tfstate
+*.tfstate.*
+**.terraform
+**.terraform.lock.*
+**google_credentials.json
+**logs/
+**.env
+**__pycache__/
+.history
+**/ny_taxi_postgres_data/*
+*.csv
+.ipynb_checkpoints/
+**data
+**plugins
+upload-data.ipynb
+**.terraform
+url_list.txt

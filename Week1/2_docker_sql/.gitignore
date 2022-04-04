@@ -1,0 +1,6 @@
+*.csv
+.ipynb_checkpoints/
+.upload-data.ipynb/
+data/
+pgadmin_data/
+pg_data/

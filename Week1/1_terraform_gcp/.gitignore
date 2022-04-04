@@ -1,0 +1,6 @@
+GCP-Project-id.txt
+triple-water-339502-7b29e85bebe4.json
+terraform/.terraform/
+terraform/.terraform.lock.hcl/
+terraform/terraform.tfstate/
+terraform/terraform.tfstate.backup/
